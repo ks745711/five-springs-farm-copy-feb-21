@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>Five Springs Farm Nursery and Landscaping</title>
+<link rel="shortcut icon" href="grafix/5sp.gif">
+<meta keywords="nursery, plants, Athens, Ohio, bamboo, trees, shrubs, ferns, sedum, maple, magnolia">
+
+</head>
+
+<body bgcolor=tan>
+
+<table cellpadding=5 border=0 width=100%>
+<tr><td align=center valign=middle><a href="aboutus.shtml"><img src="grafix/5spgsfarm.gif" alt="About Us" width=700></a></td>
+
+<td align=center valign=middle>
+<table>
+<tr><td align=center><a href="http://www.fivespringsfarm.com/trees.shtml"><img src="http://www.fivespringsfarm.com/grafix/tree-banner.jpg" alt="Trees and Shrubs" width=280></a></td>
+<td align=center><a href="http://www.fivespringsfarm.com/sedums.shtml"><img src="http://www.fivespringsfarm.com/grafix/sedum-banner.jpg" alt="Sedums" width=280></a></td></tr>
+
+<tr><td align=center><a href="http://www.fivespringsfarm.com/magnolias.shtml"><img src="http://www.fivespringsfarm.com/grafix/magnolia-banner.jpg" alt="Magnolias" width=280></a></td>
+<td align=center><a href="http://www.fivespringsfarm.com/maples.shtml"><img src="http://www.fivespringsfarm.com/grafix/maples-banner.jpg" alt="Maples" width=280></a></td>
+</tr>
+
+<tr><td align=center><a href="http://www.fivespringsfarm.com/vines.shtml"><img src="http://www.fivespringsfarm.com/grafix/vine-banner.jpg" alt="Vines" width=280></a></td>
+<td align=center><a href="http://www.fivespringsfarm.com/wildflowers.shtml"><img src="http://www.fivespringsfarm.com/grafix/wildflower-banner.jpg" alt="Wildflowers" width=280></a></td></tr>
+
+<tr><td align=center><a href="http://www.fivespringsfarm.com/perennials.shtml"><img src="http://www.fivespringsfarm.com/grafix/perennial-banner.jpg" alt="Perennials" width=280></a></td>
+<td align=center><a href="http://www.fivespringsfarm.com/ferns.shtml"><img src="http://www.fivespringsfarm.com/grafix/fern-banner.jpg" alt="Ferns and Fern Allies" width=280></a></td>
+</tr>
+
+<tr>
+<td align=center><a href="http://www.fivespringsfarm.com/bamboos.shtml"><img src="http://www.fivespringsfarm.com/grafix/bamboo-banner.jpg" alt="Bamboos and Grasses" width=280></a></td>
+<td align=center><a href="http://www.fivespringsfarm.com/uses.shtml"><img src="http://www.fivespringsfarm.com/grafix/uses-banner.jpg" alt="Targeted Uses" width=280></a></td>
+</tr>
+</table></td></tr></table>
+
+<table cellpadding=5 border=0 width=100% rowspan=2>
+<tr><td align=center valign=middle><a href="aboutus.shtml"><img src="./grafix/aboutus.gif" alt="About Us" width=400></a></td>
+
+<td align=center valign=middle bgcolor=darkred><h1 align=center><font color=white>We care about the COVID-19 virus!<br>
+But the nursery is a big outdoor<br>
+space where social distancing is easy,<br>
+and we're never crowded.<br>
+So don't be afraid to visit!</font></td>
+
+<td align=center valign=middle><a href="landscape.shtml"><img src="./grafix/landscape.gif" alt="Landscaping Services" width=400></a></td>
+</tr>
+
+<tr>
+<td align=center valign=middle><a href="inventory.shtml"><img src="./grafix/inventory.gif" alt="Inventory" width=400></a></td>
+
+<td align=center valign=middle><a href="plantinfo.shtml"><img src="./grafix/plantinfo.gif" alt="Plant Information Sheets" width=400></a></td>
+
+<td align=center valign=middle><a href="mailorder.shtml"><img src="./grafix/mailorder.gif" alt="Mail Order" width=400></a></td></tr>
+
+</table>
+
+
+</body>
+</html>

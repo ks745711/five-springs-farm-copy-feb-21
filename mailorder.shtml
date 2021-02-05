@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>Five Springs Farm Nursery and Landscaping: Landscaping Services</title>
+<link rel="shortcut icon" href="grafix/5sp.gif">
+<meta keywords="nursery, plants, Athens, Ohio, bamboo, trees, shrubs, ferns, sedums, maple, magnolia">
+
+</head>
+
+<body bgcolor="e0e0c0">
+
+<table cellpadding=20>
+<tr><td><a href="index.shtml"><img src="grafix/mailorder-title.gif"></a></td>
+<td>
+<table cellpadding=5>
+<tr><td valign=top>
+<tr>
+<td><a href="http://www.fivespringsfarm.com">
+<img src="http://www.fivespringsfarm.com/grafix/main-banner.gif" height=50></a></td>
+<td><a href="http://www.fivespringsfarm.com/vines.shtml"><img src="http://www.fivespringsfarm.com/grafix/vine-banner.jpg" height=50></a></td></tr>
+
+<tr><td><a href="http://www.fivespringsfarm.com/aboutus.shtml"><img src="http://www.fivespringsfarm.com/grafix/aboutus-banner.gif" height=50></a></td>
+<td><a href="http://www.fivespringsfarm.com/bamboos.shtml"><img src="http://www.fivespringsfarm.com/grafix/bamboo-banner.jpg" height=50></a></td></tr>
+
+<tr><td><a href="http://www.fivespringsfarm.com/wildflowers.shtml"><img src="http://www.fivespringsfarm.com/grafix/wildflower-banner.jpg" height=50></a></td>
+<td><a href="http://www.fivespringsfarm.com/perennials.shtml"><img src="http://www.fivespringsfarm.com/grafix/perennial-banner.jpg" height=50></a></td></tr>
+
+<tr><td><a href="http://www.fivespringsfarm.com/uses.shtml"><img src="http://www.fivespringsfarm.com/grafix/uses-banner.jpg" height=50></a></td>
+<td><a href="http://www.fivespringsfarm.com/sedums.shtml"><img src="http://www.fivespringsfarm.com/grafix/sedum-banner.jpg" height=50></a></td></tr>
+
+<tr><td><a href="http://www.fivespringsfarm.com/trees.shtml"><img src="http://www.fivespringsfarm.com/grafix/tree-banner.jpg" height=50></a></td>
+<td><a href="http://www.fivespringsfarm.com/ferns.shtml"><img src="http://www.fivespringsfarm.com/grafix/fern-banner.jpg" height=50></a></td></tr>
+
+<tr><td><a href="http://www.fivespringsfarm.com/magnolias.shtml"><img src="http://www.fivespringsfarm.com/grafix/magnolia-banner.jpg" height=50></a></td>
+<td><a href="http://www.fivespringsfarm.com/maples.shtml"><img src="http://www.fivespringsfarm.com/grafix/maples-banner.jpg" height=50></a></td>
+</tr>
+
+</td></tr></table>
+</td></tr></table>
+
+
+<h2 align=center>We're new at offering mail order. We plan to set up a cart in the future, but for the meantime use our order form.<br>Below are icons for four types of forms, so that you can type into them on your home computer.<br>Email us the order form and we will calculate postage and get back with you.</h2>
+
+<table align=center>
+<tr>
+<td align=center><form action="fivesp-orderform.rtf">
+<div>
+<input type="image" src="./grafix/rtfbutton.gif"
+ value="Rich Text Format" alt="[Rich Text Format]" name="rtf" width=200>
+</div>
+</form></td>
+
+<td align=center><form action="fivesp-orderform.wpd">
+<div>
+<input type="image" src="./grafix/wordperfectbutton.gif"
+ value="WordPerfect 9+ format" alt="[WordPerfect 9+]" name="wordperfect" width=200>
+</div>
+</form></td>
+
+<td align=center><form action="fivesp-orderform.doc">
+<div>
+<input type="image" src="./grafix/mswordbutton.gif"
+ value="MS Word 200+ format" alt="[MS Word 2000+]  name="msword" width=200>
+</div>
+</form></td>
+
+<td align=center><form action="fivesp-orderform.pdf">
+<div>
+<input type="image" src="./grafix/pdfbutton.gif"
+ value="Adobe PDF" alt="[Adobe PDF File]" name="pdf" width=200>
+</div>
+</form>
+</td>
+
+</tr></table>
+
+
+</body>
+</html>
